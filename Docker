@@ -1,0 +1,51 @@
+
+--core java
+*Threads
+*Interfaces and abstract classes
+*Garbage collections
+*Collections
+*Exception Handling
+*Synchronization
+*serialization and deserialization
+*Design Patterns
+*Files
+*Generics
+*concurrent collections
+--Spring 
+*Spring Context – for dependency injection.
+*Spring AOP – for aspect oriented programming.
+*Spring DAO – for database operations using DAO pattern.
+*Spring JDBC – for JDBC and DataSource support.
+*Spring ORM – for ORM tools support such as Hibernate.
+*spring security
+
+--spring boot
+*
+--advance java
+JDBC
+Simple statement
+prepared statement
+Type 1, Type 2,Type 3, Type 4 Drivers
+SQL injection problem
+Servlets
+
+1.Servlet life cycle with different methods
+
+2.Servlet communication (requestdispatching,sendredirection)
+
+3.Servlet config and context,
+
+4. Scopes
+
+JSP
+
+1.Basic tags
+
+2.Jsp life cycle.
+--JDBC,SQL,Hibernate,JPA
+--html
+--css
+-angular
+-docker
+--junit
+--karma
